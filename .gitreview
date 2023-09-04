@@ -1,0 +1,5 @@
+[gerrit]
+host=review.rc.nectar.org.au
+port=29418
+project=NeCTAR-RC/puppetlabs-puppetdb.git
+defaultbranch=nectar/7.13.0
